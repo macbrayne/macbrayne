@@ -9,8 +9,8 @@ Missing: Email
 ## GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#31](https://github.com/ostrosco/device_query/issues/31) in [ostrosco/device_query](https://github.com/ostrosco/device_query)
-2. ❗️ Opened issue [#31](https://github.com/ostrosco/device_query/issues/31) in [ostrosco/device_query](https://github.com/ostrosco/device_query)
-3. 🗣 Commented on [#30](https://github.com/ostrosco/device_query/issues/30) in [ostrosco/device_query](https://github.com/ostrosco/device_query)
+2. 🗣 Commented on [#31](https://github.com/ostrosco/device_query/issues/31) in [ostrosco/device_query](https://github.com/ostrosco/device_query)
+3. ❗️ Opened issue [#31](https://github.com/ostrosco/device_query/issues/31) in [ostrosco/device_query](https://github.com/ostrosco/device_query)
 4. 🗣 Commented on [#30](https://github.com/ostrosco/device_query/issues/30) in [ostrosco/device_query](https://github.com/ostrosco/device_query)
 5. 🗣 Commented on [#30](https://github.com/ostrosco/device_query/issues/30) in [ostrosco/device_query](https://github.com/ostrosco/device_query)
 <!--END_SECTION:activity-->
