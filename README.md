@@ -8,11 +8,11 @@ Missing: Email
 [![Macbrayne's github stats](https://github-readme-stats.vercel.app/api?username=macbrayne&count_private=true&show_icons=true&hide=stars)](https://github.com/macbrayne/github-readme-stats)
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Pepe20129/difficultytweaker/issues/3) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
-2. 🗣 Commented on [#2](https://github.com/Pepe20129/difficultytweaker/issues/2) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
-3. ❗️ Opened issue [#2](https://github.com/Pepe20129/difficultytweaker/issues/2) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
-4. 🗣 Commented on [#108](https://github.com/tobystrong/compact-storage/issues/108) in [tobystrong/compact-storage](https://github.com/tobystrong/compact-storage)
-5. 🗣 Commented on [#19](https://github.com/macbrayne/inventory-pause-forge/issues/19) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+1. 🗣 Commented on [#4](https://github.com/Pepe20129/difficultytweaker/issues/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+2. 💪 Opened PR [#4](https://github.com/Pepe20129/difficultytweaker/pull/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+3. ❗️ Opened issue [#3](https://github.com/Pepe20129/difficultytweaker/issues/3) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+4. 🗣 Commented on [#2](https://github.com/Pepe20129/difficultytweaker/issues/2) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+5. ❗️ Opened issue [#2](https://github.com/Pepe20129/difficultytweaker/issues/2) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
 <!--END_SECTION:activity-->
 
 
