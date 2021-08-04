@@ -5,7 +5,7 @@
 Missing: Email
 -->
 ## Statistics
-[![Macbrayne's github stats](https://github-readme-stats.vercel.app/api?username=macbrayne&count_private=true&show_icons=true&hide=stars)](https://github.com/macbrayne/github-readme-stats)
+[![Macbrayne's github stats](https://github-readme-stats.vercel.app/api?username=macbrayne&count_private=true&include_all_commits=true&show_icons=true&hide=stars)](https://github.com/macbrayne/github-readme-stats)
 ## GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/Pepe20129/difficultytweaker/issues/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
