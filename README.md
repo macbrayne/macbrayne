@@ -8,11 +8,11 @@ Missing: Email
 ![Macbrayne's github stats](https://github-readme-stats.vercel.app/api?username=macbrayne&count_private=true&include_all_commits=true&show_icons=true&hide=stars)
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Pepe20129/difficultytweaker/issues/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
-2. 💪 Opened PR [#4](https://github.com/Pepe20129/difficultytweaker/pull/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
-3. ❗️ Opened issue [#3](https://github.com/Pepe20129/difficultytweaker/issues/3) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
-4. 🗣 Commented on [#2](https://github.com/Pepe20129/difficultytweaker/issues/2) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
-5. ❗️ Opened issue [#2](https://github.com/Pepe20129/difficultytweaker/issues/2) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+1. 🗣 Commented on [#1](https://github.com/macbrayne/inventory-pause-cursed/issues/1) in [macbrayne/inventory-pause-cursed](https://github.com/macbrayne/inventory-pause-cursed)
+2. 🗣 Commented on [#4](https://github.com/Pepe20129/difficultytweaker/issues/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+3. 💪 Opened PR [#4](https://github.com/Pepe20129/difficultytweaker/pull/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+4. ❗️ Opened issue [#3](https://github.com/Pepe20129/difficultytweaker/issues/3) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+5. 🗣 Commented on [#2](https://github.com/Pepe20129/difficultytweaker/issues/2) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
 <!--END_SECTION:activity-->
 
 
