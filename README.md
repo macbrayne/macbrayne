@@ -9,10 +9,10 @@ Missing: Email
 ## GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/Pepe20129/difficultytweaker/issues/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
-2. ❗️ Closed issue [#2](https://github.com/macbrayne/inventory-pause-cursed/issues/2) in [macbrayne/inventory-pause-cursed](https://github.com/macbrayne/inventory-pause-cursed)
-3. 🗣 Commented on [#2](https://github.com/macbrayne/inventory-pause-cursed/issues/2) in [macbrayne/inventory-pause-cursed](https://github.com/macbrayne/inventory-pause-cursed)
-4. 🗣 Commented on [#1](https://github.com/macbrayne/inventory-pause-cursed/issues/1) in [macbrayne/inventory-pause-cursed](https://github.com/macbrayne/inventory-pause-cursed)
-5. 🗣 Commented on [#4](https://github.com/Pepe20129/difficultytweaker/issues/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+2. 🗣 Commented on [#4](https://github.com/Pepe20129/difficultytweaker/issues/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+3. ❗️ Closed issue [#2](https://github.com/macbrayne/inventory-pause-cursed/issues/2) in [macbrayne/inventory-pause-cursed](https://github.com/macbrayne/inventory-pause-cursed)
+4. 🗣 Commented on [#2](https://github.com/macbrayne/inventory-pause-cursed/issues/2) in [macbrayne/inventory-pause-cursed](https://github.com/macbrayne/inventory-pause-cursed)
+5. 🗣 Commented on [#1](https://github.com/macbrayne/inventory-pause-cursed/issues/1) in [macbrayne/inventory-pause-cursed](https://github.com/macbrayne/inventory-pause-cursed)
 <!--END_SECTION:activity-->
 
 
