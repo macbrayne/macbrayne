@@ -8,10 +8,10 @@ Missing: Email
 ![Macbrayne's github stats](https://github-readme-stats.vercel.app/api?username=macbrayne&count_private=true&include_all_commits=true&show_icons=true&hide=stars)
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/shedaniel/cloth-config/issues/102) in [shedaniel/cloth-config](https://github.com/shedaniel/cloth-config)
-2. 🗣 Commented on [#26](https://github.com/comp500/fabric-serverside-mods/issues/26) in [comp500/fabric-serverside-mods](https://github.com/comp500/fabric-serverside-mods)
-3. 💪 Opened PR [#26](https://github.com/comp500/fabric-serverside-mods/pull/26) in [comp500/fabric-serverside-mods](https://github.com/comp500/fabric-serverside-mods)
-4. 🗣 Commented on [#4](https://github.com/Pepe20129/difficultytweaker/issues/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
+1. 💪 Opened PR [#1](https://github.com/halotroop2288/Mod-ARR-Checker/pull/1) in [halotroop2288/Mod-ARR-Checker](https://github.com/halotroop2288/Mod-ARR-Checker)
+2. 🗣 Commented on [#102](https://github.com/shedaniel/cloth-config/issues/102) in [shedaniel/cloth-config](https://github.com/shedaniel/cloth-config)
+3. 🗣 Commented on [#26](https://github.com/comp500/fabric-serverside-mods/issues/26) in [comp500/fabric-serverside-mods](https://github.com/comp500/fabric-serverside-mods)
+4. 💪 Opened PR [#26](https://github.com/comp500/fabric-serverside-mods/pull/26) in [comp500/fabric-serverside-mods](https://github.com/comp500/fabric-serverside-mods)
 5. 🗣 Commented on [#4](https://github.com/Pepe20129/difficultytweaker/issues/4) in [Pepe20129/difficultytweaker](https://github.com/Pepe20129/difficultytweaker)
 <!--END_SECTION:activity-->
 
