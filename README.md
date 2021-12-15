@@ -9,15 +9,15 @@ Missing: Email
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kirides/GD3D11](https://github.com/kirides/GD3D11)
-2. ⭐ Starred [ataulien/GD3D11](https://github.com/ataulien/GD3D11)
-3. ✌️ Released [First 1.18 release! (without server translations)](https://github.com/macbrayne/spawn-protection-tweaks/releases/tag/1.18/v0.4.1) in [macbrayne/spawn-protection-tweaks](https://github.com/macbrayne/spawn-protection-tweaks)
-4. ✌️ Released [FIX: Temporarily remove server side translation support](https://github.com/macbrayne/spawn-protection-tweaks/releases/tag/1.17.1/v0.4.1) in [macbrayne/spawn-protection-tweaks](https://github.com/macbrayne/spawn-protection-tweaks)
-5. ✌️ Released [New optional experimental(!) event based backend](https://github.com/macbrayne/spawn-protection-tweaks/releases/tag/1.17.1/v0.4) in [macbrayne/spawn-protection-tweaks](https://github.com/macbrayne/spawn-protection-tweaks)
+1. 🔱 Forked [macbrayne/LambdaMap](https://github.com/macbrayne/LambdaMap) from [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+2. ⭐ Starred [kirides/GD3D11](https://github.com/kirides/GD3D11)
+3. ⭐ Starred [ataulien/GD3D11](https://github.com/ataulien/GD3D11)
+4. ✌️ Released [First 1.18 release! (without server translations)](https://github.com/macbrayne/spawn-protection-tweaks/releases/tag/1.18/v0.4.1) in [macbrayne/spawn-protection-tweaks](https://github.com/macbrayne/spawn-protection-tweaks)
+5. ✌️ Released [FIX: Temporarily remove server side translation support](https://github.com/macbrayne/spawn-protection-tweaks/releases/tag/1.17.1/v0.4.1) in [macbrayne/spawn-protection-tweaks](https://github.com/macbrayne/spawn-protection-tweaks)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 15th, 2021, 2:10:30 PM
+Last Updated: Wednesday, December 15th, 2021, 3:11:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
