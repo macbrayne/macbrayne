@@ -9,15 +9,15 @@ Missing: Email
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
-2. ❗️ Opened issue [#276](https://github.com/BlueMap-Minecraft/BlueMap/issues/276) in [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)
-3. 🔱 Forked [macbrayne/LambdaMap](https://github.com/macbrayne/LambdaMap) from [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
-4. ⭐ Starred [kirides/GD3D11](https://github.com/kirides/GD3D11)
-5. ⭐ Starred [ataulien/GD3D11](https://github.com/ataulien/GD3D11)
+1. 💪 Opened PR [#10](https://github.com/LambdAurora/LambdaMap/pull/10) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+2. 💪 Opened PR [#23](https://github.com/LambdAurora/SpruceUI/pull/23) in [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
+3. 🔱 Forked [macbrayne/SpruceUI](https://github.com/macbrayne/SpruceUI) from [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
+4. ⭐ Starred [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+5. ❗️ Opened issue [#276](https://github.com/BlueMap-Minecraft/BlueMap/issues/276) in [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 28th, 2021, 1:19:33 PM
+Last Updated: Tuesday, December 28th, 2021, 2:10:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
