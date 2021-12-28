@@ -9,15 +9,15 @@ Missing: Email
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#10](https://github.com/LambdAurora/LambdaMap/pull/10) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
-2. 💪 Opened PR [#23](https://github.com/LambdAurora/SpruceUI/pull/23) in [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
-3. 🔱 Forked [macbrayne/SpruceUI](https://github.com/macbrayne/SpruceUI) from [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
-4. ⭐ Starred [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
-5. ❗️ Opened issue [#276](https://github.com/BlueMap-Minecraft/BlueMap/issues/276) in [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)
+1. ❗️ Opened issue [#11](https://github.com/LambdAurora/LambdaMap/issues/11) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+2. 💪 Opened PR [#10](https://github.com/LambdAurora/LambdaMap/pull/10) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+3. 💪 Opened PR [#23](https://github.com/LambdAurora/SpruceUI/pull/23) in [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
+4. 🔱 Forked [macbrayne/SpruceUI](https://github.com/macbrayne/SpruceUI) from [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
+5. ⭐ Starred [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 28th, 2021, 7:09:16 PM
+Last Updated: Tuesday, December 28th, 2021, 8:12:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
