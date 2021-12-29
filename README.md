@@ -9,15 +9,15 @@ Missing: Email
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#11](https://github.com/LambdAurora/LambdaMap/issues/11) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
-2. 💪 Opened PR [#10](https://github.com/LambdAurora/LambdaMap/pull/10) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
-3. 💪 Opened PR [#23](https://github.com/LambdAurora/SpruceUI/pull/23) in [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
-4. 🔱 Forked [macbrayne/SpruceUI](https://github.com/macbrayne/SpruceUI) from [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
-5. ⭐ Starred [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+1. 💪 Opened PR [#13](https://github.com/LambdAurora/LambdaMap/pull/13) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+2. ❗️ Opened issue [#12](https://github.com/LambdAurora/LambdaMap/issues/12) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+3. ❗️ Opened issue [#11](https://github.com/LambdAurora/LambdaMap/issues/11) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+4. 💪 Opened PR [#10](https://github.com/LambdAurora/LambdaMap/pull/10) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+5. 💪 Opened PR [#23](https://github.com/LambdAurora/SpruceUI/pull/23) in [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 29th, 2021, 11:09:22 AM
+Last Updated: Wednesday, December 29th, 2021, 12:18:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
