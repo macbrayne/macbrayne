@@ -9,15 +9,15 @@ Missing: Email
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#58](https://github.com/macbrayne/inventory-pause-forge/pull/58) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-2. ⭐ Starred [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-3. ⭐ Starred [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-4. 💪 Opened PR [#13](https://github.com/LambdAurora/LambdaMap/pull/13) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
-5. ❗️ Opened issue [#12](https://github.com/LambdAurora/LambdaMap/issues/12) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
+1. ✌️ Released [Version 0.9: A first 1.17 version](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v0.9-fix) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+2. ✌️ Released [Version 0.9: A first 1.17 version](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v0.9) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+3. 🎉 Merged PR [#58](https://github.com/macbrayne/inventory-pause-forge/pull/58) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+4. ⭐ Starred [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+5. ⭐ Starred [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 9th, 2022, 3:10:57 PM
+Last Updated: Sunday, January 9th, 2022, 4:16:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
