@@ -5,7 +5,8 @@
 Missing: Email
 -->
 ## Statistics
-![Macbrayne's github stats](https://github-readme-stats.vercel.app/api?username=macbrayne&count_private=true&include_all_commits=true&show_icons=true&hide=stars)
+![Macbrayne's github stats](https://github-readme-stats.vercel.app/api?username=macbrayne&count_private=true&show_icons=true&hide_rank=true&custom_title=macbrayne's%20GitHub%20Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macbrayne&exclude_repo=liftron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
