@@ -10,15 +10,15 @@ Missing: Email
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#24](https://github.com/LambdAurora/SpruceUI/pull/24) in [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
-2. 💪 Opened PR [#14](https://github.com/LambdAurora/LambdaMap/pull/14) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
-3. ⭐ Starred [Bubblie01/Merlin-GUI](https://github.com/Bubblie01/Merlin-GUI)
-4. 🔱 Forked [macbrayne/SmoothBedrock-by-Blayyke](https://github.com/macbrayne/SmoothBedrock-by-Blayyke) from [NoComment1105/SmoothBedrock-by-Blayyke](https://github.com/NoComment1105/SmoothBedrock-by-Blayyke)
-5. 💪 Opened PR [#3](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/3) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. ⭐ Starred [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+2. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+3. ⭐ Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)
+4. 💪 Opened PR [#24](https://github.com/LambdAurora/SpruceUI/pull/24) in [LambdAurora/SpruceUI](https://github.com/LambdAurora/SpruceUI)
+5. 💪 Opened PR [#14](https://github.com/LambdAurora/LambdaMap/pull/14) in [LambdAurora/LambdaMap](https://github.com/LambdAurora/LambdaMap)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 16th, 2022, 5:11:10 PM
+Last Updated: Wednesday, February 16th, 2022, 6:13:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
