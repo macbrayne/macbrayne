@@ -10,15 +10,15 @@ Missing: Email
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/macbrayne/status/issues/1) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ✔️ Closed issue [#2](https://github.com/macbrayne/status/issues/2) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ❗️ Opened issue [#2](https://github.com/macbrayne/status/issues/2) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ❗️ Opened issue [#1](https://github.com/macbrayne/status/issues/1) in [macbrayne/status](https://github.com/macbrayne/status)
-5. 📔 Created new repository [macbrayne/status](https://github.com/macbrayne/status)
+1. ❗️ Opened issue [#437](https://github.com/modrinth/knossos/issues/437) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. ✔️ Closed issue [#1](https://github.com/macbrayne/status/issues/1) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ✔️ Closed issue [#2](https://github.com/macbrayne/status/issues/2) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ❗️ Opened issue [#2](https://github.com/macbrayne/status/issues/2) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ❗️ Opened issue [#1](https://github.com/macbrayne/status/issues/1) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 24th, 2022, 7:09:23 PM
+Last Updated: Thursday, March 24th, 2022, 8:13:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
