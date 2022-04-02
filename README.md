@@ -10,15 +10,15 @@ Missing: Email
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NumericPrime/choralprogramm-website-v1.0](https://github.com/NumericPrime/choralprogramm-website-v1.0)
-2. ❗️ Opened issue [#437](https://github.com/modrinth/knossos/issues/437) in [modrinth/knossos](https://github.com/modrinth/knossos)
-3. ✔️ Closed issue [#1](https://github.com/macbrayne/status/issues/1) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ✔️ Closed issue [#2](https://github.com/macbrayne/status/issues/2) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ❗️ Opened issue [#2](https://github.com/macbrayne/status/issues/2) in [macbrayne/status](https://github.com/macbrayne/status)
+1. 💪 Opened PR [#445](https://github.com/modrinth/knossos/pull/445) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. ⭐ Starred [NumericPrime/choralprogramm-website-v1.0](https://github.com/NumericPrime/choralprogramm-website-v1.0)
+3. ❗️ Opened issue [#437](https://github.com/modrinth/knossos/issues/437) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. ✔️ Closed issue [#1](https://github.com/macbrayne/status/issues/1) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ✔️ Closed issue [#2](https://github.com/macbrayne/status/issues/2) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 2nd, 2022, 6:13:11 PM
+Last Updated: Saturday, April 2nd, 2022, 7:09:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
