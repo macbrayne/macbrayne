@@ -11,15 +11,15 @@ Missing: Email
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#28](https://github.com/macbrayne/status/issues/28) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ✔️ Closed issue [#27](https://github.com/macbrayne/status/issues/27) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ❗️ Opened issue [#27](https://github.com/macbrayne/status/issues/27) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ✔️ Closed issue [#26](https://github.com/macbrayne/status/issues/26) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ❗️ Opened issue [#26](https://github.com/macbrayne/status/issues/26) in [macbrayne/status](https://github.com/macbrayne/status)
+1. 👍 Approved [#6](https://github.com/modrinth/translations/pull/6#pullrequestreview-988592388) in [modrinth/translations](https://github.com/modrinth/translations)
+2. 👍 Approved [#6](https://github.com/modrinth/translations/pull/6#pullrequestreview-988592388) in [modrinth/translations](https://github.com/modrinth/translations)
+3. ⭐ Starred [samdenty/git-icons](https://github.com/samdenty/git-icons)
+4. ❗️ Opened issue [#28](https://github.com/macbrayne/status/issues/28) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ✔️ Closed issue [#27](https://github.com/macbrayne/status/issues/27) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 29th, 2022, 8:15:24 AM
+Last Updated: Sunday, May 29th, 2022, 9:12:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
