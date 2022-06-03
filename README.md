@@ -11,15 +11,15 @@ Missing: Email
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#6](https://github.com/modrinth/translations/pull/6#pullrequestreview-988592388) in [modrinth/translations](https://github.com/modrinth/translations)
+1. ❗️ Opened issue [#29](https://github.com/macbrayne/status/issues/29) in [macbrayne/status](https://github.com/macbrayne/status)
 2. 👍 Approved [#6](https://github.com/modrinth/translations/pull/6#pullrequestreview-988592388) in [modrinth/translations](https://github.com/modrinth/translations)
-3. ⭐ Starred [samdenty/git-icons](https://github.com/samdenty/git-icons)
-4. ❗️ Opened issue [#28](https://github.com/macbrayne/status/issues/28) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ✔️ Closed issue [#27](https://github.com/macbrayne/status/issues/27) in [macbrayne/status](https://github.com/macbrayne/status)
+3. 👍 Approved [#6](https://github.com/modrinth/translations/pull/6#pullrequestreview-988592388) in [modrinth/translations](https://github.com/modrinth/translations)
+4. ⭐ Starred [samdenty/git-icons](https://github.com/samdenty/git-icons)
+5. ❗️ Opened issue [#28](https://github.com/macbrayne/status/issues/28) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 3rd, 2022, 11:10:07 AM
+Last Updated: Friday, June 3rd, 2022, 12:22:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
