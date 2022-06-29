@@ -2,9 +2,8 @@
 ## How to reach me
 [Website](https://macbrayne.de)
 [Mastodon](https://norden.social/@florentin)
-<!--
-Missing: Email
--->
+[Email](mailto:hello@macbrayne.de)
+
 ## Statistics
 ![Macbrayne's github stats](https://github-readme-stats.vercel.app/api?username=macbrayne&count_private=true&show_icons=true&hide_rank=true&custom_title=macbrayne's%20GitHub%20Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macbrayne&exclude_repo=liftron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
