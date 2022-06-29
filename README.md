@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm currently studying Physics at TU Braunschweig in my 2nd semester.
+
 ## How to reach me
 [Website](https://macbrayne.de)
 [Mastodon](https://norden.social/@florentin)
