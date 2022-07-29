@@ -12,15 +12,15 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#67](https://github.com/macbrayne/status/issues/67) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ✔️ Closed issue [#66](https://github.com/macbrayne/status/issues/66) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ❗️ Opened issue [#66](https://github.com/macbrayne/status/issues/66) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ❗️ Opened issue [#3436](https://github.com/LuckPerms/LuckPerms/issues/3436) in [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms)
-5. ✔️ Closed issue [#65](https://github.com/macbrayne/status/issues/65) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✔️ Closed issue [#67](https://github.com/macbrayne/status/issues/67) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ❗️ Opened issue [#67](https://github.com/macbrayne/status/issues/67) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ✔️ Closed issue [#66](https://github.com/macbrayne/status/issues/66) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ❗️ Opened issue [#66](https://github.com/macbrayne/status/issues/66) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ❗️ Opened issue [#3436](https://github.com/LuckPerms/LuckPerms/issues/3436) in [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 29th, 2022, 9:13:02 AM
+Last Updated: Friday, July 29th, 2022, 10:13:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
