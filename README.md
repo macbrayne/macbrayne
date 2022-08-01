@@ -12,15 +12,15 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#67](https://github.com/macbrayne/status/issues/67) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ❗️ Opened issue [#67](https://github.com/macbrayne/status/issues/67) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ✔️ Closed issue [#66](https://github.com/macbrayne/status/issues/66) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ❗️ Opened issue [#66](https://github.com/macbrayne/status/issues/66) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ❗️ Opened issue [#3436](https://github.com/LuckPerms/LuckPerms/issues/3436) in [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms)
+1. ✌️ Released [Version 0.8.1: Fixing 1.16 crashes](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v0.8.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+2. ✔️ Closed issue [#67](https://github.com/macbrayne/status/issues/67) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#67](https://github.com/macbrayne/status/issues/67) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ✔️ Closed issue [#66](https://github.com/macbrayne/status/issues/66) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ❗️ Opened issue [#66](https://github.com/macbrayne/status/issues/66) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 1st, 2022, 5:21:46 PM
+Last Updated: Monday, August 1st, 2022, 6:17:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
