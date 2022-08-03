@@ -2,7 +2,7 @@
 I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 
 ## How to reach me
-[Website](https://macbrayne.de)
+[Website](https://florentin-schleuss.de)
 [Mastodon](https://norden.social/@florentin)
 [Email](mailto:hello@macbrayne.de)
 
