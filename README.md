@@ -12,15 +12,15 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#4806](https://github.com/nextcloud/desktop/issues/4806) in [nextcloud/desktop](https://github.com/nextcloud/desktop)
-2. ✔️ Closed issue [#80](https://github.com/macbrayne/inventory-pause-forge/issues/80) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-3. ✌️ Released [Version 0.8.1: Fixing 1.16 crashes](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v0.8.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-4. ✔️ Closed issue [#67](https://github.com/macbrayne/status/issues/67) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ❗️ Opened issue [#67](https://github.com/macbrayne/status/issues/67) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✌️ Released [v0.2: Quick mockup](https://github.com/macbrayne/macbrayne.github.io/releases/tag/v0.2) in [macbrayne/macbrayne.github.io](https://github.com/macbrayne/macbrayne.github.io)
+2. ❗️ Opened issue [#4806](https://github.com/nextcloud/desktop/issues/4806) in [nextcloud/desktop](https://github.com/nextcloud/desktop)
+3. ✔️ Closed issue [#80](https://github.com/macbrayne/inventory-pause-forge/issues/80) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+4. ✌️ Released [Version 0.8.1: Fixing 1.16 crashes](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v0.8.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+5. ✔️ Closed issue [#67](https://github.com/macbrayne/status/issues/67) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 4th, 2022, 4:19:16 PM
+Last Updated: Thursday, August 4th, 2022, 5:19:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
