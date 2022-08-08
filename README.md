@@ -12,15 +12,15 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#68](https://github.com/macbrayne/status/issues/68) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ❗️ Opened issue [#68](https://github.com/macbrayne/status/issues/68) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ✌️ Released [v0.2: Quick mockup](https://github.com/macbrayne/macbrayne.github.io/releases/tag/v0.2) in [macbrayne/macbrayne.github.io](https://github.com/macbrayne/macbrayne.github.io)
-4. ❗️ Opened issue [#4806](https://github.com/nextcloud/desktop/issues/4806) in [nextcloud/desktop](https://github.com/nextcloud/desktop)
-5. ✔️ Closed issue [#80](https://github.com/macbrayne/inventory-pause-forge/issues/80) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+1. ✌️ Released [v0.2.1: Fix page title & favicon](https://github.com/macbrayne/macbrayne.github.io/releases/tag/v0.2.1) in [macbrayne/macbrayne.github.io](https://github.com/macbrayne/macbrayne.github.io)
+2. ✔️ Closed issue [#68](https://github.com/macbrayne/status/issues/68) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#68](https://github.com/macbrayne/status/issues/68) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ✌️ Released [v0.2: Quick mockup](https://github.com/macbrayne/macbrayne.github.io/releases/tag/v0.2) in [macbrayne/macbrayne.github.io](https://github.com/macbrayne/macbrayne.github.io)
+5. ❗️ Opened issue [#4806](https://github.com/nextcloud/desktop/issues/4806) in [nextcloud/desktop](https://github.com/nextcloud/desktop)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 8th, 2022, 7:10:32 PM
+Last Updated: Monday, August 8th, 2022, 8:13:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
