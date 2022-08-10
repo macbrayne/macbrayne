@@ -12,15 +12,15 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#70](https://github.com/macbrayne/status/issues/70) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ❗️ Opened issue [#70](https://github.com/macbrayne/status/issues/70) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ⭐ Starred [hackforla/ballotnav](https://github.com/hackforla/ballotnav)
-4. ✌️ Released [0.1.0: Group Creation and Membership Sync](https://github.com/macbrayne/wikijs-ldap-group-sync/releases/tag/0.1.0) in [macbrayne/wikijs-ldap-group-sync](https://github.com/macbrayne/wikijs-ldap-group-sync)
-5. ✔️ Closed issue [#69](https://github.com/macbrayne/status/issues/69) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✌️ Released [0.2.0: Certificate Verification Support](https://github.com/macbrayne/wikijs-ldap-group-sync/releases/tag/0.2.0) in [macbrayne/wikijs-ldap-group-sync](https://github.com/macbrayne/wikijs-ldap-group-sync)
+2. ✔️ Closed issue [#70](https://github.com/macbrayne/status/issues/70) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#70](https://github.com/macbrayne/status/issues/70) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ⭐ Starred [hackforla/ballotnav](https://github.com/hackforla/ballotnav)
+5. ✌️ Released [0.1.0: Group Creation and Membership Sync](https://github.com/macbrayne/wikijs-ldap-group-sync/releases/tag/0.1.0) in [macbrayne/wikijs-ldap-group-sync](https://github.com/macbrayne/wikijs-ldap-group-sync)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 10th, 2022, 4:17:19 PM
+Last Updated: Wednesday, August 10th, 2022, 5:18:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
