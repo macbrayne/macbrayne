@@ -12,15 +12,15 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.2.1: Fix invalid TLS Option being used](https://github.com/macbrayne/wikijs-ldap-group-sync/releases/tag/0.2.1) in [macbrayne/wikijs-ldap-group-sync](https://github.com/macbrayne/wikijs-ldap-group-sync)
-2. 🤝 Became collaborator on [macbrayne/wikijs-ldap-group-sync](https://github.com/macbrayne/wikijs-ldap-group-sync)
-3. ✔️ Closed issue [#73](https://github.com/macbrayne/status/issues/73) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ❗️ Opened issue [#73](https://github.com/macbrayne/status/issues/73) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ✔️ Closed issue [#72](https://github.com/macbrayne/status/issues/72) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✔️ Closed issue [#74](https://github.com/macbrayne/status/issues/74) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ❗️ Opened issue [#74](https://github.com/macbrayne/status/issues/74) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ✌️ Released [0.2.1: Fix invalid TLS Option being used](https://github.com/macbrayne/wikijs-ldap-group-sync/releases/tag/0.2.1) in [macbrayne/wikijs-ldap-group-sync](https://github.com/macbrayne/wikijs-ldap-group-sync)
+4. 🤝 Became collaborator on [macbrayne/wikijs-ldap-group-sync](https://github.com/macbrayne/wikijs-ldap-group-sync)
+5. ✔️ Closed issue [#73](https://github.com/macbrayne/status/issues/73) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 11th, 2022, 7:08:43 PM
+Last Updated: Thursday, August 11th, 2022, 8:12:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
