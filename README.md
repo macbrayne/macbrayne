@@ -12,15 +12,15 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#34](https://github.com/ModFest/modfest-singularity/pull/34) in [ModFest/modfest-singularity](https://github.com/ModFest/modfest-singularity)
-2. 💪 Opened PR [#21](https://github.com/ModFest/modfest-singularity/pull/21) in [ModFest/modfest-singularity](https://github.com/ModFest/modfest-singularity)
-3. 🔱 Forked [macbrayne/modfest-singularity](https://github.com/macbrayne/modfest-singularity) from [ModFest/modfest-singularity](https://github.com/ModFest/modfest-singularity)
-4. ✔️ Closed issue [#87](https://github.com/macbrayne/status/issues/87) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ❗️ Opened issue [#87](https://github.com/macbrayne/status/issues/87) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✔️ Closed issue [#88](https://github.com/macbrayne/status/issues/88) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ❗️ Opened issue [#88](https://github.com/macbrayne/status/issues/88) in [macbrayne/status](https://github.com/macbrayne/status)
+3. 💪 Opened PR [#34](https://github.com/ModFest/modfest-singularity/pull/34) in [ModFest/modfest-singularity](https://github.com/ModFest/modfest-singularity)
+4. 💪 Opened PR [#21](https://github.com/ModFest/modfest-singularity/pull/21) in [ModFest/modfest-singularity](https://github.com/ModFest/modfest-singularity)
+5. 🔱 Forked [macbrayne/modfest-singularity](https://github.com/macbrayne/modfest-singularity) from [ModFest/modfest-singularity](https://github.com/ModFest/modfest-singularity)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 12th, 2022, 10:13:37 PM
+Last Updated: Monday, September 12th, 2022, 11:14:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
