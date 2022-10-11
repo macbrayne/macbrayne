@@ -12,15 +12,15 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.2.2: Fix crash when accessing some groups](https://github.com/macbrayne/wikijs-ldap-group-sync/releases/tag/0.2.2) in [macbrayne/wikijs-ldap-group-sync](https://github.com/macbrayne/wikijs-ldap-group-sync)
-2. ⭐ Starred [derf/travelynx](https://github.com/derf/travelynx)
-3. ✔️ Closed issue [#92](https://github.com/macbrayne/status/issues/92) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ❗️ Opened issue [#92](https://github.com/macbrayne/status/issues/92) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ✔️ Closed issue [#91](https://github.com/macbrayne/status/issues/91) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✔️ Closed issue [#94](https://github.com/macbrayne/status/issues/94) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ✔️ Closed issue [#93](https://github.com/macbrayne/status/issues/93) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#94](https://github.com/macbrayne/status/issues/94) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ❗️ Opened issue [#93](https://github.com/macbrayne/status/issues/93) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ✌️ Released [0.2.2: Fix crash when accessing some groups](https://github.com/macbrayne/wikijs-ldap-group-sync/releases/tag/0.2.2) in [macbrayne/wikijs-ldap-group-sync](https://github.com/macbrayne/wikijs-ldap-group-sync)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 11th, 2022, 8:18:05 PM
+Last Updated: Tuesday, October 11th, 2022, 9:14:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
