@@ -12,15 +12,15 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Version 1.1.2: Port game mode switcher support from 1.17/1.18](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.1.2) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-2. ✌️ Released [Version 0.9.1: Better Compat, Better Usability and Death Screen Support](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v0.9.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-3. ✌️ Released [Version 1.0.2: Fix compat feature not working](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.0.2) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-4. ✌️ Released [Version 1.0.1: Better Compat, Better Usability and Death Screen Support](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.0.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-5. ✌️ Released [Version 0.8.3: Better Compat, Better Usability and Death Screen Support](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v0.8.3) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+1. ⭐ Starred [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+2. ✌️ Released [Version 1.1.2: Port game mode switcher support from 1.17/1.18](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.1.2) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+3. ✌️ Released [Version 1.1.2: Port game mode switcher support from 1.17/1.18](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.1.2) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+4. ✌️ Released [Version 0.9.1: Better Compat, Better Usability and Death Screen Support](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v0.9.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+5. ✌️ Released [Version 1.0.2: Fix compat feature not working](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.0.2) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 29th, 2022, 10:12:27 PM
+Last Updated: Saturday, October 29th, 2022, 11:15:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
