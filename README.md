@@ -12,15 +12,15 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-2. ✌️ Released [Version 1.1.2: Port game mode switcher support from 1.17/1.18](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.1.2) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+1. ❗️ Opened issue [#99](https://github.com/macbrayne/status/issues/99) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ⭐ Starred [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
 3. ✌️ Released [Version 1.1.2: Port game mode switcher support from 1.17/1.18](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.1.2) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-4. ✌️ Released [Version 0.9.1: Better Compat, Better Usability and Death Screen Support](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v0.9.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-5. ✌️ Released [Version 1.0.2: Fix compat feature not working](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.0.2) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+4. ✌️ Released [Version 1.1.2: Port game mode switcher support from 1.17/1.18](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.1.2) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+5. ✌️ Released [Version 0.9.1: Better Compat, Better Usability and Death Screen Support](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v0.9.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 31st, 2022, 10:15:03 PM
+Last Updated: Monday, October 31st, 2022, 11:14:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
