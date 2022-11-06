@@ -3,7 +3,8 @@ I'm currently studying Physics at TU Braunschweig in my 2nd semester.
 
 ## How to reach me
 [Website](https://florentin-schleuss.de)
-[Mastodon](https://norden.social/@florentin)
+<a rel="me" href="https://norden.social/@florentin">Mastodon (norden.social)</a>
+<a rel="me" href="https://craftodon.social/@frodolon">Mastodon (craftodon.social)</a>
 [Email](mailto:hello@macbrayne.de)
 
 ## Statistics
