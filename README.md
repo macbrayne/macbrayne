@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 3rd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#194](https://github.com/macbrayne/status/issues/194) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ❗️ Opened issue [#193](https://github.com/macbrayne/status/issues/193) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ✔️ Closed issue [#191](https://github.com/macbrayne/status/issues/191) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ✔️ Closed issue [#189](https://github.com/macbrayne/status/issues/189) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ✌️ Released [Version 1.2: Better Config Screen](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.2) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+1. ✔️ Closed issue [#194](https://github.com/macbrayne/status/issues/194) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ✔️ Closed issue [#193](https://github.com/macbrayne/status/issues/193) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#194](https://github.com/macbrayne/status/issues/194) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ❗️ Opened issue [#193](https://github.com/macbrayne/status/issues/193) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ✔️ Closed issue [#191](https://github.com/macbrayne/status/issues/191) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 21st, 2023, 9:10:19 PM
+Last Updated: Tuesday, February 21st, 2023, 10:11:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
