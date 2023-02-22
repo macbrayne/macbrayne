@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 3rd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#205](https://github.com/macbrayne/status/issues/205) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ✔️ Closed issue [#204](https://github.com/macbrayne/status/issues/204) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ✔️ Closed issue [#202](https://github.com/macbrayne/status/issues/202) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ❗️ Opened issue [#205](https://github.com/macbrayne/status/issues/205) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ❗️ Opened issue [#204](https://github.com/macbrayne/status/issues/204) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ❗️ Opened issue [#208](https://github.com/macbrayne/status/issues/208) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ❗️ Opened issue [#207](https://github.com/macbrayne/status/issues/207) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#206](https://github.com/macbrayne/status/issues/206) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ✔️ Closed issue [#205](https://github.com/macbrayne/status/issues/205) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ✔️ Closed issue [#204](https://github.com/macbrayne/status/issues/204) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 22nd, 2023, 9:10:12 PM
+Last Updated: Wednesday, February 22nd, 2023, 10:09:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
