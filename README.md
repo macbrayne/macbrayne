@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 3rd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#230](https://github.com/macbrayne/status/issues/230) in [macbrayne/status](https://github.com/macbrayne/status)
-2. 💪 Opened PR [#461](https://github.com/factoriotools/factorio-docker/pull/461) in [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker)
-3. 🔱 Forked [macbrayne/factorio-docker](https://github.com/macbrayne/factorio-docker) from [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker)
-4. ✔️ Closed issue [#229](https://github.com/macbrayne/status/issues/229) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ❗️ Opened issue [#229](https://github.com/macbrayne/status/issues/229) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✔️ Closed issue [#230](https://github.com/macbrayne/status/issues/230) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ❗️ Opened issue [#231](https://github.com/macbrayne/status/issues/231) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#230](https://github.com/macbrayne/status/issues/230) in [macbrayne/status](https://github.com/macbrayne/status)
+4. 💪 Opened PR [#461](https://github.com/factoriotools/factorio-docker/pull/461) in [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker)
+5. 🔱 Forked [macbrayne/factorio-docker](https://github.com/macbrayne/factorio-docker) from [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 9th, 2023, 1:10:42 PM
+Last Updated: Sunday, April 9th, 2023, 2:07:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
