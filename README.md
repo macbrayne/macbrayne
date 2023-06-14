@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 3rd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#254](https://github.com/macbrayne/status/issues/254) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ❗️ Opened issue [#254](https://github.com/macbrayne/status/issues/254) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ⭐ Starred [WildByDesign/SandboxYourFox](https://github.com/WildByDesign/SandboxYourFox)
-4. ✔️ Closed issue [#253](https://github.com/macbrayne/status/issues/253) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ❗️ Opened issue [#253](https://github.com/macbrayne/status/issues/253) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✌️ Released [Version 1.3: Port to 1.20](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.3) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+2. ✔️ Closed issue [#254](https://github.com/macbrayne/status/issues/254) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#254](https://github.com/macbrayne/status/issues/254) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ⭐ Starred [WildByDesign/SandboxYourFox](https://github.com/WildByDesign/SandboxYourFox)
+5. ✔️ Closed issue [#253](https://github.com/macbrayne/status/issues/253) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 13th, 2023, 11:08:39 PM
+Last Updated: Wednesday, June 14th, 2023, 12:59:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
