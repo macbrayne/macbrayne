@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 3rd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#261](https://github.com/macbrayne/status/issues/261) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ❗️ Opened issue [#261](https://github.com/macbrayne/status/issues/261) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ✔️ Closed issue [#260](https://github.com/macbrayne/status/issues/260) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ❗️ Opened issue [#260](https://github.com/macbrayne/status/issues/260) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ✔️ Closed issue [#259](https://github.com/macbrayne/status/issues/259) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✌️ Released [Version 0.5: Port to Fabric, First non-modfest release, Better deduplication](https://github.com/macbrayne/recovery-plus/releases/tag/v0.5) in [macbrayne/recovery-plus](https://github.com/macbrayne/recovery-plus)
+2. ✔️ Closed issue [#261](https://github.com/macbrayne/status/issues/261) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#261](https://github.com/macbrayne/status/issues/261) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ✔️ Closed issue [#260](https://github.com/macbrayne/status/issues/260) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ❗️ Opened issue [#260](https://github.com/macbrayne/status/issues/260) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 23rd, 2023, 8:09:38 PM
+Last Updated: Sunday, July 23rd, 2023, 9:08:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
