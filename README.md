@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 3rd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#293](https://github.com/macbrayne/status/issues/293) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ✔️ Closed issue [#5214](https://github.com/MultiMC/Launcher/issues/5214) in [MultiMC/Launcher](https://github.com/MultiMC/Launcher)
-3. ✔️ Closed issue [#292](https://github.com/macbrayne/status/issues/292) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ❗️ Opened issue [#292](https://github.com/macbrayne/status/issues/292) in [macbrayne/status](https://github.com/macbrayne/status)
-5. 🔱 Forked [macbrayne/DamageIncorporated](https://github.com/macbrayne/DamageIncorporated) from [EnnuiL/DamageIncorporated](https://github.com/EnnuiL/DamageIncorporated)
+1. ✔️ Closed issue [#293](https://github.com/macbrayne/status/issues/293) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ❗️ Opened issue [#293](https://github.com/macbrayne/status/issues/293) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ✔️ Closed issue [#5214](https://github.com/MultiMC/Launcher/issues/5214) in [MultiMC/Launcher](https://github.com/MultiMC/Launcher)
+4. ✔️ Closed issue [#292](https://github.com/macbrayne/status/issues/292) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ❗️ Opened issue [#292](https://github.com/macbrayne/status/issues/292) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 17th, 2023, 6:11:01 PM
+Last Updated: Sunday, September 17th, 2023, 7:07:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
