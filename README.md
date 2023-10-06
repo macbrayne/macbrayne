@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 3rd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#300](https://github.com/macbrayne/status/issues/300) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ❗️ Opened issue [#300](https://github.com/macbrayne/status/issues/300) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ✔️ Closed issue [#299](https://github.com/macbrayne/status/issues/299) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ❗️ Opened issue [#299](https://github.com/macbrayne/status/issues/299) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ✔️ Closed issue [#298](https://github.com/macbrayne/status/issues/298) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ⭐ Starred [laech/java-stacksrc](https://github.com/laech/java-stacksrc)
+2. ✔️ Closed issue [#300](https://github.com/macbrayne/status/issues/300) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#300](https://github.com/macbrayne/status/issues/300) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ✔️ Closed issue [#299](https://github.com/macbrayne/status/issues/299) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ❗️ Opened issue [#299](https://github.com/macbrayne/status/issues/299) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 6th, 2023, 8:12:45 AM
+Last Updated: Friday, October 6th, 2023, 9:10:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
