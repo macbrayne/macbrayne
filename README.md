@@ -21,7 +21,7 @@ I'm currently studying Physics at TU Braunschweig in my 3rd semester.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 18th, 2023, 4:12:46 PM
+Last Updated: Wednesday, October 18th, 2023, 5:09:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
