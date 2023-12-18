@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 3rd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#34](https://github.com/zlataovce/takenaka/issues/34) in [zlataovce/takenaka](https://github.com/zlataovce/takenaka)
-2. 💪 Opened PR [#33](https://github.com/zlataovce/takenaka/pull/33) in [zlataovce/takenaka](https://github.com/zlataovce/takenaka)
-3. 🔱 Forked [macbrayne/takenaka](https://github.com/macbrayne/takenaka) from [zlataovce/takenaka](https://github.com/zlataovce/takenaka)
-4. ❗️ Opened issue [#31](https://github.com/zlataovce/takenaka/issues/31) in [zlataovce/takenaka](https://github.com/zlataovce/takenaka)
-5. ✔️ Closed issue [#313](https://github.com/macbrayne/status/issues/313) in [macbrayne/status](https://github.com/macbrayne/status)
+1. 💪 Opened PR [#35](https://github.com/zlataovce/takenaka/pull/35) in [zlataovce/takenaka](https://github.com/zlataovce/takenaka)
+2. ❗️ Opened issue [#34](https://github.com/zlataovce/takenaka/issues/34) in [zlataovce/takenaka](https://github.com/zlataovce/takenaka)
+3. 💪 Opened PR [#33](https://github.com/zlataovce/takenaka/pull/33) in [zlataovce/takenaka](https://github.com/zlataovce/takenaka)
+4. 🔱 Forked [macbrayne/takenaka](https://github.com/macbrayne/takenaka) from [zlataovce/takenaka](https://github.com/zlataovce/takenaka)
+5. ❗️ Opened issue [#31](https://github.com/zlataovce/takenaka/issues/31) in [zlataovce/takenaka](https://github.com/zlataovce/takenaka)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 18th, 2023, 6:12:55 PM
+Last Updated: Monday, December 18th, 2023, 7:08:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
