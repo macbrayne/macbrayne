@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 3rd semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Version 1.5.1: A single Quality of Life fix](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.5.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-2. ✔️ Closed issue [#89](https://github.com/macbrayne/inventory-pause-forge/issues/89) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-3. ✌️ Released [Version 1.2.1: Port to 1.19.4](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.2.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-4. ⭐ Starred [derhuerst/vbb-station-photos](https://github.com/derhuerst/vbb-station-photos)
-5. ✔️ Closed issue [#333](https://github.com/macbrayne/status/issues/333) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✔️ Closed issue [#330](https://github.com/macbrayne/status/issues/330) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ✌️ Released [Version 1.5.1: A single Quality of Life fix](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.5.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+3. ✔️ Closed issue [#89](https://github.com/macbrayne/inventory-pause-forge/issues/89) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+4. ✌️ Released [Version 1.2.1: Port to 1.19.4](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v1.2.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+5. ⭐ Starred [derhuerst/vbb-station-photos](https://github.com/derhuerst/vbb-station-photos)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 14th, 2024, 9:09:43 PM
+Last Updated: Thursday, March 14th, 2024, 10:09:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
