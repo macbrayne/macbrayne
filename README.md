@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 6th semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#95](https://github.com/macbrayne/inventory-pause-forge/pull/95) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-2. ✌️ Released [Version 2.0: Better modded support and "slow motion"](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v2.0.0) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-3. 🎉 Merged PR [#94](https://github.com/macbrayne/inventory-pause-forge/pull/94) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-4. 💪 Opened PR [#94](https://github.com/macbrayne/inventory-pause-forge/pull/94) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-5. 🎉 Merged PR [#93](https://github.com/macbrayne/inventory-pause-forge/pull/93) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+1. 🎉 Merged PR [#95](https://github.com/macbrayne/inventory-pause-forge/pull/95) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+2. 💪 Opened PR [#95](https://github.com/macbrayne/inventory-pause-forge/pull/95) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+3. ✌️ Released [Version 2.0: Better modded support and "slow motion"](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v2.0.0) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+4. 🎉 Merged PR [#94](https://github.com/macbrayne/inventory-pause-forge/pull/94) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+5. 💪 Opened PR [#94](https://github.com/macbrayne/inventory-pause-forge/pull/94) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 29th, 2024, 8:11:45 PM
+Last Updated: Wednesday, May 29th, 2024, 9:10:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
