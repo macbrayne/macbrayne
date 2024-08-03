@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 6th semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [macbrayne/mc-graphs](https://github.com/macbrayne/mc-graphs)
-2. ❗️ Opened issue [#346](https://github.com/macbrayne/status/issues/346) in [macbrayne/status](https://github.com/macbrayne/status)
-3. 💪 Opened PR [#144](https://github.com/sisby-folk/antique-atlas/pull/144) in [sisby-folk/antique-atlas](https://github.com/sisby-folk/antique-atlas)
+1. ❗️ Opened issue [#1912](https://github.com/modrinth/code/issues/1912) in [modrinth/code](https://github.com/modrinth/code)
+2. 📔 Created new repository [macbrayne/mc-graphs](https://github.com/macbrayne/mc-graphs)
+3. ❗️ Opened issue [#346](https://github.com/macbrayne/status/issues/346) in [macbrayne/status](https://github.com/macbrayne/status)
 4. 🔱 Forked [macbrayne/antique-atlas](https://github.com/macbrayne/antique-atlas) from [sisby-folk/antique-atlas](https://github.com/sisby-folk/antique-atlas)
 5. 🔱 Forked [macbrayne/surveyor](https://github.com/macbrayne/surveyor) from [sisby-folk/surveyor](https://github.com/sisby-folk/surveyor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 3rd, 2024, 6:15:32 PM
+Last Updated: Saturday, August 3rd, 2024, 7:18:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
