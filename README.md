@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 6th semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#347](https://github.com/macbrayne/status/issues/347) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ❗️ Opened issue [#347](https://github.com/macbrayne/status/issues/347) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ✔️ Closed issue [#346](https://github.com/macbrayne/status/issues/346) in [macbrayne/status](https://github.com/macbrayne/status)
-4. 🔱 Forked [macbrayne/antique-atlas](https://github.com/macbrayne/antique-atlas) from [sisby-folk/antique-atlas](https://github.com/sisby-folk/antique-atlas)
+1. ✌️ Released [Version 4.0: Proper slow motion and modded support for 1.20.4](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v4.0.0) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+2. ✔️ Closed issue [#347](https://github.com/macbrayne/status/issues/347) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#347](https://github.com/macbrayne/status/issues/347) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ✔️ Closed issue [#346](https://github.com/macbrayne/status/issues/346) in [macbrayne/status](https://github.com/macbrayne/status)
 5. 🔱 Forked [macbrayne/surveyor](https://github.com/macbrayne/surveyor) from [sisby-folk/surveyor](https://github.com/sisby-folk/surveyor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 19th, 2024, 11:12:13 PM
+Last Updated: Sunday, October 20th, 2024, 1:07:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
