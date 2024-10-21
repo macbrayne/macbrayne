@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently studying Physics at TU Braunschweig in my 6th semester.
+I'm currently studying Physics at TU Braunschweig in my 7th semester.
 
 ## How to reach me
 [Website](https://florentin-schleuss.de)
