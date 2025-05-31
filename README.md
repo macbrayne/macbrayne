@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 7th semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Version 6.0: Port to 1.21 Fabric and NeoForge](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v6.0.0) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-2. ✌️ Released [Version 6.0.0: Port to 1.21 Fabric and NeoForge](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v6.0.0) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-3. 📖 Created new wiki page [Adding-Custom-Screens](https://github.com/macbrayne/inventory-pause-forge/wiki/Adding-Custom-Screens) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-4. 📖 Created new wiki page [Home](https://github.com/macbrayne/inventory-pause-forge/wiki/Home) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-5. 📖 Created new wiki page [In‐Game-Config](https://github.com/macbrayne/inventory-pause-forge/wiki/In%E2%80%90Game-Config) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+1. ✌️ Released [Version 5.0.1: New Name, 1.20.6 Fabric and NeoForge (now the real deal)](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v5.0.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+2. ✌️ Released [Version 5.0.1: New Name, 1.20.6 Fabric and NeoForge (now the real deal)](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v5.0.1) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+3. ✌️ Released [Version 6.0: Port to 1.21 Fabric and NeoForge](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v6.0.0) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+4. ✌️ Released [Version 6.0.0: Port to 1.21 Fabric and NeoForge](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v6.0.0) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+5. 📖 Created new wiki page [Adding-Custom-Screens](https://github.com/macbrayne/inventory-pause-forge/wiki/Adding-Custom-Screens) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 31st, 2025, 11:11:12 AM
+Last Updated: Saturday, May 31st, 2025, 12:27:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
