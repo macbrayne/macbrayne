@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 9th semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#422](https://github.com/macbrayne/status/issues/422) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ✔️ Closed issue [#421](https://github.com/macbrayne/status/issues/421) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ❗️ Opened issue [#422](https://github.com/macbrayne/status/issues/422) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ❗️ Opened issue [#421](https://github.com/macbrayne/status/issues/421) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ✔️ Closed issue [#420](https://github.com/macbrayne/status/issues/420) in [macbrayne/status](https://github.com/macbrayne/status)
+1. ✌️ Released [Version 0.2-uni: Special version for our uni Minecraft server](https://github.com/macbrayne/enderdragontweaks/releases/tag/v0.2-uni) in [macbrayne/enderdragontweaks](https://github.com/macbrayne/enderdragontweaks)
+2. ✌️ Released [Version 0.1: Tweak health, MC-272431, dragon's breath, self-hits, beds](https://github.com/macbrayne/enderdragontweaks/releases/tag/v0.1) in [macbrayne/enderdragontweaks](https://github.com/macbrayne/enderdragontweaks)
+3. ✔️ Closed issue [#422](https://github.com/macbrayne/status/issues/422) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ✔️ Closed issue [#421](https://github.com/macbrayne/status/issues/421) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ❗️ Opened issue [#422](https://github.com/macbrayne/status/issues/422) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 4th, 2025, 11:14:58 AM
+Last Updated: Thursday, December 4th, 2025, 12:35:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
