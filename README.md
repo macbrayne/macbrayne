@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 9th semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Version 6.1: QOL changes and a single bug fix](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v6.1.0) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
-2. ✔️ Closed issue [#428](https://github.com/macbrayne/status/issues/428) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ✔️ Closed issue [#427](https://github.com/macbrayne/status/issues/427) in [macbrayne/status](https://github.com/macbrayne/status)
-4. ✔️ Closed issue [#426](https://github.com/macbrayne/status/issues/426) in [macbrayne/status](https://github.com/macbrayne/status)
-5. ❗️ Opened issue [#428](https://github.com/macbrayne/status/issues/428) in [macbrayne/status](https://github.com/macbrayne/status)
+1. 🔱 Forked [macbrayne/fabric-docs](https://github.com/macbrayne/fabric-docs) from [FabricMC/fabric-docs](https://github.com/FabricMC/fabric-docs)
+2. ✌️ Released [Version 6.1: QOL changes and a single bug fix](https://github.com/macbrayne/inventory-pause-forge/releases/tag/v6.1.0) in [macbrayne/inventory-pause-forge](https://github.com/macbrayne/inventory-pause-forge)
+3. ✔️ Closed issue [#428](https://github.com/macbrayne/status/issues/428) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ✔️ Closed issue [#427](https://github.com/macbrayne/status/issues/427) in [macbrayne/status](https://github.com/macbrayne/status)
+5. ✔️ Closed issue [#426](https://github.com/macbrayne/status/issues/426) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 14th, 2026, 10:57:41 AM
+Last Updated: Tuesday, April 14th, 2026, 11:57:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
