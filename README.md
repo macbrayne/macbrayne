@@ -13,15 +13,15 @@ I'm currently studying Physics at TU Braunschweig in my 9th semester.
 ## GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#431](https://github.com/macbrayne/status/issues/431) in [macbrayne/status](https://github.com/macbrayne/status)
-2. ❗️ Opened issue [#430](https://github.com/macbrayne/status/issues/430) in [macbrayne/status](https://github.com/macbrayne/status)
-3. ❗️ Opened issue [#429](https://github.com/macbrayne/status/issues/429) in [macbrayne/status](https://github.com/macbrayne/status)
-4. 🔱 Forked [macbrayne/fabric-docs](https://github.com/macbrayne/fabric-docs) from [FabricMC/fabric-docs](https://github.com/FabricMC/fabric-docs)
+1. ✔️ Closed issue [#431](https://github.com/macbrayne/status/issues/431) in [macbrayne/status](https://github.com/macbrayne/status)
+2. ✔️ Closed issue [#430](https://github.com/macbrayne/status/issues/430) in [macbrayne/status](https://github.com/macbrayne/status)
+3. ❗️ Opened issue [#431](https://github.com/macbrayne/status/issues/431) in [macbrayne/status](https://github.com/macbrayne/status)
+4. ❗️ Opened issue [#430](https://github.com/macbrayne/status/issues/430) in [macbrayne/status](https://github.com/macbrayne/status)
 5. ✔️ Closed issue [#426](https://github.com/macbrayne/status/issues/426) in [macbrayne/status](https://github.com/macbrayne/status)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 22nd, 2026, 4:20:05 PM
+Last Updated: Friday, May 22nd, 2026, 6:50:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
